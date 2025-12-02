@@ -1,0 +1,14 @@
+= Wesnoth
+
+== Wesnoth
+
+----
+git submodule update --init --recursive
+----
+
+== Build with `scons`
+
+----
+❯ scons -c
+❯ scons > dev/logs/scons.log
+----
