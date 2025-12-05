@@ -1,5 +1,19 @@
 = Wesnoth
+:toc:
+:sectnums:
+ifndef::env-github[:icons: font]
+:note-caption: :paperclip:
+:important-caption: :exclamation:
+:warning-caption: :warning:
 
+[IMPORTANT]
+====
+The commit history of this branch is volatile. +
+Rebasing and force pushing happens at will. +
+The commits in this branch mostly collect changes in a restricted area of code. +
+They rarely document code evolution. +
+The history may be rewritten without notice.
+====
 == Wesnoth
 
 ----
