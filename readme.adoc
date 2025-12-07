@@ -10,7 +10,7 @@ ifndef::env-github[:icons: font]
 ====
 The commit history of this branch is volatile. +
 Rebasing and force pushing happens at will. +
-The commits in this branch mostly collect changes in a restricted area of code. +
+The commits in this branch mostly collect changes with a narrow scope. +
 They rarely document code evolution. +
 The history may be rewritten without notice.
 ====
